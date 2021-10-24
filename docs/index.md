@@ -87,17 +87,26 @@ Release date
 User Experience (UX) Design
 These is our visual representation of our the user journey
 Personas
+![persona](images/persona.jpg)
+
 
 Useflow
+![flow](images/flow.jpg)
+
 
 Low-Fidelity Wireframes
+![flow](images/low.png)
 
 
 
 High-Fidelity Wireframes
+![high](images/high.png)
 
 
 Link to the actual figma file design Link
+https://www.figma.com/file/6yltswZDLm6JwDO39Wpoh9/Digital-Stylist?node-id=0%3A1
+
+
 
 
 
